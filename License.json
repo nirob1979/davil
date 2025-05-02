@@ -1,0 +1,502 @@
+{
+  "licenses": [
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2029-12-31 23:59:59",
+      "user_info": "Tuser Ahammed, Owner"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2024-12-15 12:00:00",
+      "user_info": "Abdullah"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Bondhu, "
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    },
+    {
+      "activated_device_uuid": "",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 12:00:00",
+      "user_info": "Mike Johnson, mike.johnson@example.com"
+    }
+  ]
+}
