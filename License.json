@@ -5,6 +5,12 @@
       "status": "VALID",
       "expiry_date": "2025-06-03 12:00:00",
       "user_info": "Fahmida Moury, "
+    },
+    {
+      "activated_device_uuid": "4972B843-C631-47DC-B1EB-94F8923C703D",
+      "status": "VALID",
+      "expiry_date": "2029-09-19 21:05:00",
+      "user_info": "Mukta"
     }
   ]
 }
