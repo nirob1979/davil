@@ -11,6 +11,12 @@
       "status": "VALID",
       "expiry_date": "2029-09-19 21:05:00",
       "user_info": "Mukta"
+    },
+    {
+      "activated_device_uuid": "A70EC8A9-F592-2950-687A-A9EDC6E5A31A",
+      "status": "VALID",
+      "expiry_date": "2029-06-19 21:05:00",
+      "user_info": "Nirob"
     }
   ]
 }
