@@ -23,6 +23,12 @@
       "status": "VALID",
       "expiry_date": "2025-06-06 18:06:00",
       "user_info": "Anamul kaka"
+    },
+    {
+      "activated_device_uuid": "2FFAF6AD-2418-11ED-8C90-E4A8DFEBF363",
+      "status": "VALID",
+      "expiry_date": "2025-06-11 23:33:00",
+      "user_info": "MUKTA NID"
     }
   ]
 }
