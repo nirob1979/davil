@@ -29,6 +29,12 @@
       "status": "VALID",
       "expiry_date": "2025-06-11 23:33:00",
       "user_info": "MUKTA NID"
+    },
+    {
+      "activated_device_uuid": "15541836-388F-3447-B33E-F220CC6DB258",
+      "status": "VALID",
+      "expiry_date": "2025-06-12 15:24:00",
+      "user_info": "shone"
     }
   ]
 }
