@@ -35,6 +35,12 @@
       "status": "VALID",
       "expiry_date": "2025-06-12 15:24:00",
       "user_info": "shone"
+    },
+    {
+      "activated_device_uuid": "501FC42C-5EB0-496F-0247-04421AA7F222",
+      "status": "VALID",
+      "expiry_date": "2025-06-15 00:38:00",
+      "user_info": "Neame"
     }
   ]
 }
