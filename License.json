@@ -47,6 +47,12 @@
       "status": "VALID",
       "expiry_date": "2025-06-22 11:11:00",
       "user_info": "subol"
+    },
+    {
+      "activated_device_uuid": "03000200-0400-0500-0006-000700080009",
+      "status": "VALID",
+      "expiry_date": "2025-06-23 21:18:00",
+      "user_info": "piashSav"
     }
   ]
 }
