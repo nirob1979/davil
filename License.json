@@ -59,6 +59,12 @@
       "status": "VALID",
       "expiry_date": "2025-06-28 22:53:00",
       "user_info": "Aboni"
+    },
+    {
+      "activated_device_uuid": "03130202-04E1-05E3-4506-020700080009",
+      "status": "VALID",
+      "expiry_date": "2025-06-30 22:56:00",
+      "user_info": "abonii"
     }
   ]
 }
