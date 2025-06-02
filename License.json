@@ -83,6 +83,12 @@
       "status": "VALID",
       "expiry_date": "2025-06-07 23:31:00",
       "user_info": "pabna askish"
+    },
+    {
+      "activated_device_uuid": "8B8DA51C-73BE-11E3-B687-B3DD9107E014",
+      "status": "VALID",
+      "expiry_date": "2025-06-30 00:02:00",
+      "user_info": "Aboni"
     }
   ]
 }
