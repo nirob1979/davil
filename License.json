@@ -77,6 +77,12 @@
       "status": "VALID",
       "expiry_date": "2025-06-27 22:54:00",
       "user_info": "Sagor"
+    },
+    {
+      "activated_device_uuid": "9478D2D9-253F-40A3-86EF-A3F864192423",
+      "status": "VALID",
+      "expiry_date": "2025-06-07 23:31:00",
+      "user_info": "pabna askish"
     }
   ]
 }
