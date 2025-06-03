@@ -95,6 +95,12 @@
       "status": "VALID",
       "expiry_date": "2025-07-03 14:11:00",
       "user_info": "rabby"
+    },
+    {
+      "activated_device_uuid": "561EEF9C-8CEA-871A-A671-00D861DA4682",
+      "status": "VALID",
+      "expiry_date": "2025-07-02 00:41:00",
+      "user_info": "babul"
     }
   ]
 }
