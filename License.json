@@ -101,6 +101,12 @@
       "status": "VALID",
       "expiry_date": "2025-07-02 00:41:00",
       "user_info": "babul"
+    },
+    {
+      "activated_device_uuid": "4C4C4544-004B-5A10-8046-B8C04F313733",
+      "status": "VALID",
+      "expiry_date": "2025-07-12 20:35:00",
+      "user_info": "Motiur"
     }
   ]
 }
