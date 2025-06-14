@@ -107,6 +107,12 @@
       "status": "VALID",
       "expiry_date": "2025-07-12 20:35:00",
       "user_info": "Motiur"
+    },
+    {
+      "activated_device_uuid": "F2C3598F-FCD4-16D5-8928-2AB23151A4E8",
+      "status": "VALID",
+      "expiry_date": "2025-07-12 18:46:00",
+      "user_info": "makak"
     }
   ]
 }
