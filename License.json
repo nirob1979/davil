@@ -125,6 +125,12 @@
       "status": "VALID",
       "expiry_date": "2025-07-23 19:56:00",
       "user_info": "nadim"
+    },
+    {
+      "activated_device_uuid": "4C4C4544-0050-3610-804B-C8C04F4E3132",
+      "status": "VALID",
+      "expiry_date": "2025-07-22 21:16:00",
+      "user_info": "Md Sydur Rahman"
     }
   ]
 }
