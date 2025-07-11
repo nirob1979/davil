@@ -131,6 +131,12 @@
       "status": "VALID",
       "expiry_date": "2025-07-22 21:16:00",
       "user_info": "Md Sydur Rahman"
+    },
+    {
+      "activated_device_uuid": "03000200-0400-0500-0006-000700080009",
+      "status": "VALID",
+      "expiry_date": "2025-08-11 12:01:00",
+      "user_info": "Xyro"
     }
   ]
 }
