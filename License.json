@@ -143,6 +143,12 @@
       "status": "VALID",
       "expiry_date": "2025-08-11 12:02:00",
       "user_info": "Abdullah Al Momin"
+    },
+    {
+      "activated_device_uuid": "2CF3A7BD-F2C5-EF2D-136C-5ACC6ECA426C",
+      "status": "VALID",
+      "expiry_date": "2025-08-27 22:08:00",
+      "user_info": "Almine joni"
     }
   ]
 }
