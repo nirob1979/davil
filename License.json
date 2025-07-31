@@ -149,6 +149,12 @@
       "status": "VALID",
       "expiry_date": "2025-08-27 22:08:00",
       "user_info": "Almine joni"
+    },
+    {
+      "activated_device_uuid": "5456D948-1E76-D418-43F9-94C691112851",
+      "status": "VALID",
+      "expiry_date": "2025-08-31 14:32:00",
+      "user_info": "Saso Dhaka"
     }
   ]
 }
