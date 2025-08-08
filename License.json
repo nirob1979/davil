@@ -179,6 +179,12 @@
       "status": "VALID",
       "expiry_date": "2025-09-08 07:52:00",
       "user_info": "Sagor"
+    },
+    {
+      "activated_device_uuid": "1CEE617F-14DD-11E4-B02C-C45AF10CF0FF",
+      "status": "VALID",
+      "expiry_date": "2025-09-08 08:32:00",
+      "user_info": "Alom sagro"
     }
   ]
 }
