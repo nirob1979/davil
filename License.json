@@ -203,6 +203,12 @@
       "status": "VALID",
       "expiry_date": "2025-09-08 23:13:00",
       "user_info": "Boka"
+    },
+    {
+      "activated_device_uuid": "78A44BDB-6CCA-4A18-A614-D8BBC1CB2F2B",
+      "status": "VALID",
+      "expiry_date": "2025-09-09 23:34:00",
+      "user_info": "Radiy borysal"
     }
   ]
 }
