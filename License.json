@@ -209,6 +209,12 @@
       "status": "VALID",
       "expiry_date": "2025-09-09 23:34:00",
       "user_info": "Radiy borysal"
+    },
+    {
+      "activated_device_uuid": "C0551152-F1F5-4BE7-B7FF-EE8D5DCBA266",
+      "status": "VALID",
+      "expiry_date": "2025-09-10 14:40:00",
+      "user_info": "Sahkil boss"
     }
   ]
 }
