@@ -215,6 +215,12 @@
       "status": "VALID",
       "expiry_date": "2025-09-10 14:40:00",
       "user_info": "Sahkil boss"
+    },
+    {
+      "activated_device_uuid": "035E02D8-04D3-051A-7506-F20700080009",
+      "status": "VALID",
+      "expiry_date": "2025-09-12 21:45:00",
+      "user_info": "Shakil"
     }
   ]
 }
