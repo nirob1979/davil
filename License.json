@@ -239,6 +239,12 @@
       "status": "VALID",
       "expiry_date": "2025-09-18 00:06:00",
       "user_info": "500tk"
+    },
+    {
+      "activated_device_uuid": "03000200-0400-0500-0006-000700080009",
+      "status": "VALID",
+      "expiry_date": "2025-09-24 00:20:00",
+      "user_info": "Saea"
     }
   ]
 }
