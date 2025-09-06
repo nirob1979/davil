@@ -251,6 +251,12 @@
       "status": "VALID",
       "expiry_date": "2027-10-14 00:44:00",
       "user_info": "nirob"
+    },
+    {
+      "activated_device_uuid": "94BA59A4-EF6B-11E2-9F42-A0CC7201008C",
+      "status": "VALID",
+      "expiry_date": "2025-10-09 01:14:00",
+      "user_info": "boka"
     }
   ]
 }
