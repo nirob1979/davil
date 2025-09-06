@@ -245,6 +245,12 @@
       "status": "VALID",
       "expiry_date": "2025-09-24 00:20:00",
       "user_info": "Saea"
+    },
+    {
+      "activated_device_uuid": "B40F69BE-AC75-6EB6-9AC7-5EFF811CFDD9",
+      "status": "VALID",
+      "expiry_date": "2027-10-14 00:44:00",
+      "user_info": "nirob"
     }
   ]
 }
