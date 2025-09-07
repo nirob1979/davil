@@ -257,6 +257,12 @@
       "status": "VALID",
       "expiry_date": "2025-10-09 01:14:00",
       "user_info": "boka"
+    },
+    {
+      "activated_device_uuid": "035E02D8-04D3-0582-7306-020700080009",
+      "status": "VALID",
+      "expiry_date": "2025-09-15 00:31:00",
+      "user_info": "asful"
     }
   ]
 }
