@@ -263,6 +263,12 @@
       "status": "VALID",
       "expiry_date": "2025-09-15 00:31:00",
       "user_info": "asful"
+    },
+    {
+      "activated_device_uuid": "A259A1A8-1638-0000-0000-000000000000",
+      "status": "VALID",
+      "expiry_date": "2025-10-11 00:16:00",
+      "user_info": "bojlur"
     }
   ]
 }
