@@ -275,6 +275,12 @@
       "status": "VALID",
       "expiry_date": "2025-10-22 00:26:00",
       "user_info": "Ashraful"
+    },
+    {
+      "activated_device_uuid": "B78B0801-BA7C-BC1F-ACC8-345A6001C8DA",
+      "status": "VALID",
+      "expiry_date": "2025-10-22 00:40:00",
+      "user_info": "S M Sahabul Alam Sagor"
     }
   ]
 }
