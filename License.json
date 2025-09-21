@@ -269,6 +269,12 @@
       "status": "VALID",
       "expiry_date": "2025-10-11 00:16:00",
       "user_info": "bojlur"
+    },
+    {
+      "activated_device_uuid": "035E02D8-04D3-0582-7306-020700080009",
+      "status": "VALID",
+      "expiry_date": "2025-10-22 00:26:00",
+      "user_info": "Ashraful"
     }
   ]
 }
