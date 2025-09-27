@@ -287,6 +287,12 @@
       "status": "VALID",
       "expiry_date": "2025-10-31 01:51:00",
       "user_info": "Sydur"
+    },
+    {
+      "activated_device_uuid": "616CC98E-049F-EF11-A4F7-6C0B5EA2382C",
+      "status": "VALID",
+      "expiry_date": "2025-10-31 02:02:00",
+      "user_info": "Raj World"
     }
   ]
 }
