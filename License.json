@@ -293,6 +293,12 @@
       "status": "VALID",
       "expiry_date": "2025-10-31 02:02:00",
       "user_info": "Raj World"
+    },
+    {
+      "activated_device_uuid": "E9AB7868-A620-0C1B-ADCB-2CF05D5B5A38",
+      "status": "VALID",
+      "expiry_date": "2025-10-31 21:01:00",
+      "user_info": "raj yt"
     }
   ]
 }
