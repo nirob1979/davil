@@ -299,6 +299,12 @@
       "status": "VALID",
       "expiry_date": "2025-10-31 21:01:00",
       "user_info": "raj yt"
+    },
+    {
+      "activated_device_uuid": "4C4C4544-0050-5110-804A-B4C04F4A4332",
+      "status": "VALID",
+      "expiry_date": "2025-10-31 21:03:00",
+      "user_info": "Mohamad Mithu"
     }
   ]
 }
