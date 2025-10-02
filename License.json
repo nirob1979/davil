@@ -311,6 +311,12 @@
       "status": "VALID",
       "expiry_date": "2025-10-29 21:18:00",
       "user_info": "Md. Jahangir Miah"
+    },
+    {
+      "activated_device_uuid": "4C4C4544-004B-4D10-804C-B3C04F425632",
+      "status": "VALID",
+      "expiry_date": "2025-11-04 23:33:00",
+      "user_info": "Mehadi"
     }
   ]
 }
