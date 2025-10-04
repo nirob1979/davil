@@ -317,6 +317,12 @@
       "status": "VALID",
       "expiry_date": "2025-11-04 23:33:00",
       "user_info": "Mehadi"
+    },
+    {
+      "activated_device_uuid": "03FF0210-04E0-0540-EB06-8F0700080009",
+      "status": "VALID",
+      "expiry_date": "2025-11-04 22:03:00",
+      "user_info": "realn"
     }
   ]
 }
