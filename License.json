@@ -329,6 +329,12 @@
       "status": "VALID",
       "expiry_date": "2025-11-07 22:38:00",
       "user_info": "VAI"
+    },
+    {
+      "activated_device_uuid": "141F283A-23AA-11EA-8B14-A06610139032",
+      "status": "VALID",
+      "expiry_date": "2025-11-07 00:02:00",
+      "user_info": "Md. Jahangir Miah"
     }
   ]
 }
