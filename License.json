@@ -353,6 +353,12 @@
       "status": "VALID",
       "expiry_date": "2029-11-02 17:57:00",
       "user_info": "nirobm,e"
+    },
+    {
+      "activated_device_uuid": "178BFBFF00A50F00|4972B843-C631-47DC-B1EB-94F8923C703D|4972B843-C631-47DC-B1EB-94F8923C703D|5CG2222JDN|5b091381-5ff7-4d1f-aca8-681eb30cda50|PLETT00WBGP1BQ",
+      "status": "VALID",
+      "expiry_date": "2028-12-29 18:27:00",
+      "user_info": "lol"
     }
   ]
 }
