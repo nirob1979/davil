@@ -359,6 +359,12 @@
       "status": "VALID",
       "expiry_date": "2028-12-29 18:27:00",
       "user_info": "lol"
+    },
+    {
+      "activated_device_uuid": "07E2810_P21B599829|178BFBFF00A60F12|99b89712-4a2b-4eb9-8b4c-04234c365768|FB8767EB-6D8A-D817-A11C-345A606DF606|FB8767EB-6D8A-D817-A11C-345A606DF606",
+      "status": "VALID",
+      "expiry_date": "2028-11-29 22:59:00",
+      "user_info": "joy"
     }
   ]
 }
