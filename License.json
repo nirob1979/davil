@@ -377,6 +377,12 @@
       "status": "VALID",
       "expiry_date": "2025-11-27 15:58:00",
       "user_info": "pulon"
+    },
+    {
+      "activated_device_uuid": "mm0gSnQvGCvF2NMSvkzTK6X+g8lM3mihm1VgkIf9Bb4",
+      "status": "VALID",
+      "expiry_date": "2028-11-06 00:58:00",
+      "user_info": "MUKTAAAAAAAAAAAAAAAAAAA"
     }
   ]
 }
