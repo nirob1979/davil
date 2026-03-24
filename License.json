@@ -402,6 +402,12 @@
       "status": "VALID",
       "expiry_date": "2026-04-30 03:07:00",
       "user_info": "DDDD"
+    },
+    {
+      "activated_device_uuid": "B40F69BE-AC75-6EB6-9AC7-5EFF811CFDD9",
+      "status": "VALID",
+      "expiry_date": "2026-08-08 17:06:00",
+      "user_info": "jii"
     }
   ]
 }
