@@ -456,6 +456,12 @@
       "status": "VALID",
       "expiry_date": "2026-06-01 09:17:00",
       "user_info": "gPA1DmUStFhpFBf0oYCJxaictuTne1rYeOXF3G+Fb5E="
+    },
+    {
+      "activated_device_uuid": "ILJG5EnHC0nWThuRA8mnZuKAy6q7WSxmbPJ8tUZiw/s=",
+      "status": "VALID",
+      "expiry_date": "2026-06-05 09:17:00",
+      "user_info": "ILJG5EnHC0nWThuRA8mnZuKAy6q7WSxmbPJ8tUZiw/s="
     }
   ]
 }
