@@ -480,6 +480,12 @@
       "status": "VALID",
       "expiry_date": "2026-06-04 09:20:00",
       "user_info": "PLgEY5QgflZjpDBH28aFum6e4JUE6/Y6WZ/YwC2JJ3c="
+    },
+    {
+      "activated_device_uuid": "rx0SQpUTmvFtZmkLN+QQgqDWGYFMmmOuRXjvPd86cn4=",
+      "status": "VALID",
+      "expiry_date": "2027-11-10 01:38:00",
+      "user_info": "nirWWWWob1971"
     }
   ]
 }
